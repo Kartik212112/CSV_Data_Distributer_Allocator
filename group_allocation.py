@@ -64,7 +64,7 @@ def group_allocation(filename, number_of_groups):
         
         branch_strength_row += 1
 
-
+    #project
    
     stats_df = pd.DataFrame(columns = ['group', 'total'])
 
